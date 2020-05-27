@@ -1,5 +1,5 @@
 h1 {
-  color: blue;
+  color: red;
   text-align: center;
 }
 
@@ -10,9 +10,10 @@ h2 {
 
 p {
   font-family: sans-serif;
+  font-weight: 20
 }
 
 ul {
   font-size: 20px;
-  line-height: 30px;
+  line-height: 20px;
 }
